@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+JS;In+search+of+effective+algorithms+and+an+architect+in+making.;Always+learning+new+things!;Let's+build+something+together+🚀&center=true&width=600&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+JS;In+search+of+effective+algorithms;An+architect+in+making.;Always+learning+new+things!;Let's+build+something+together+🚀&center=true&width=600&height=50" />
 </p>
 
 
