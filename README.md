@@ -1,113 +1,97 @@
-<h1 align="center">Hi 👋, I'm Jay Gupta</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hey there 👋, I'm Jay Gupta</h1>
+<h3 align="center">Full Stack Developer | Cloud Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+Lover;Always+learning+new+things!&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+Enthusiast;Lifelong+Learner+%F0%9F%93%9A;Let%E2%80%99s+Build+Something+Awesome+Together+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="jay" />
+  <img src="https://komarev.com/ghpvc/?username=ijaygupta&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-- 🧠 Backend: **Node.js**, **Express.js**, **Fastify.js**, **Spring Boot**
-- 🎨 Frontend: **React.js**, **Redux**, **EJS**, **Handlebars**, **HTML5**, **CSS3**
-- 🛢️ Databases: MongoDB, MySQL, Elasticsearch, Firebase, Redis
-- 🛠️ Tools: Git, Postman, Docker, VS Code, IntelliJ, GitHub Actions
-- 🌩 Devops: Docker, AWS (Lambda, SQS, EventBridge, Beanstalk, EC2, S3, Cloudwatch), Git, Linux, Cloudflare, CDN, Nginx
-- 🥽 Others: Data Structures & Algorithms, Design Patterns, System Design, Bash Script 
+#### 🧠 Backend
+`Node.js` • `Express` • `Fastify` • `Spring Boot`
+
+#### 🎨 Frontend
+`React` • `Redux` • `EJS` • `Handlebars` • `HTML5` • `CSS3`
+
+#### 🛢️ Databases
+`MongoDB` • `MySQL` • `Elasticsearch` • `Firebase` • `Redis`
+
+#### ⚙️ DevOps & Tools
+`Docker` • `AWS (Lambda, EC2, S3, CloudWatch, SQS)` • `GitHub Actions` • `Nginx` • `Cloudflare`
+
+#### 🧰 Developer Tools
+`VS Code` • `IntelliJ IDEA` • `Postman` • `Git` • `Linux` • `Bash Scripts`
+
+#### 📚 CS Fundamentals
+`Data Structures & Algorithms` • `System Design` • `Design Patterns`
+
+---
 
 <details>
-<summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ijaygupta&show_icons=true&theme=gotham" alt="Jay Gupta | Stats"/>
-
+  <summary><b>📊 GitHub Stats</b></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ijaygupta&show_icons=true&theme=gotham" alt="Jay Gupta's GitHub Stats" />
+  </p>
 </details>
 
 ---
 
-**Interests:** Tech, Music, Gym
+### 🔥 Projects Showcase
+
+| 🚀 Project | 💡 Description |
+|-----------|----------------|
+| 🧾 **Invoice Generator** | Generate Excel/PDF reports from MongoDB & Elasticsearch |
+| 💬 **Live Chat App** | Real-time chat with WebSocket & user auth |
+| 🛒 **E-Commerce Platform** | Full-featured MERN stack shop with payments & admin panel |
 
 ---
 
+### 🧩 About Me
 
-- 😊 Willing to contribute in opensource and freelance projects.
-- :email: Email me <a href="mailto:jayguptazzz@gmail.com">jayguptazzz@gmail.com</a>
-- 🌐 Visit my [porfolio website](https://ijaygupta.github.io/) for complete background and contact.
-
----
-
-**Some Facts about me**
-
-- :octocat: I :heart: Dark Mode
-- :zap: My favourite code editor is VS Code
-- :headphones: My favourite song is <a href="https://youtu.be/OmF1AY3sO9Q">Lauv - Modern Loneliness (Ritviz Remix)</a>
-- :eyes: What I watch on <a href="https://www.youtube.com/channel/UCUuDUW0Y6IQZYDvH1QQBsgA">youtube</a>:question:
-- :fire: My productivity <a href="https://www.youtube.com/playlist?list=PL-Nb4b-00lSC7G4DMrT-YxgVtR9MMgsRV">playlist</a>
-- :computer: My average typing speed is 80WPM
-- <img src="Assets/Earth.gif" height="20px"> EARTH is <b>not</b> flat
+- 🎯 Always exploring new tech and solving problems
+- 🤝 Open to collaboration on Open Source & Freelance Projects
+- 📧 Reach me at: [jayguptazzz@gmail.com](mailto:jayguptazzz@gmail.com)
+- 🌐 Portfolio: [https://ijaygupta.github.io](https://ijaygupta.github.io)
 
 ---
 
-### 🚀 Projects
+### 🎯 Fun Facts
 
-> A few things I’ve built or contributed to 👇
-
-| Project | Description |
-|--------|-------------|
-| 🧾 **Invoice Generator** | Generate massive Excel/PDF reports from Elasticsearch and MongoDB |
-| 💬 **Live Chat App** | Real-time WebSocket-based chat with user authentication |
-| 🛍️ **E-Commerce Platform** | MERN stack app with payment integration and admin dashboard |
-
+- 🌚 Dark Mode is life
+- ⚡ I love VS Code
+- 🎧 Currently vibing to: [Lauv - Modern Loneliness (Ritviz Remix)](https://youtu.be/OmF1AY3sO9Q)
+- 📺 YouTube content I enjoy: [What I Watch](https://www.youtube.com/channel/UCUuDUW0Y6IQZYDvH1QQBsgA)
+- 🔊 My productivity playlist: [Listen here](https://www.youtube.com/playlist?list=PL-Nb4b-00lSC7G4DMrT-YxgVtR9MMgsRV)
+- ⌨️ Typing Speed: ~80 WPM
+- 🌍 EARTH is <b>not</b> flat 😉
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="Jay's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://ijaygupta.github.io"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ijaygupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/jaygpta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@ijaygupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌟 Fun Motto
 
-<p align="center">
-<a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ijaygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
-<a href="https://instagram.com/jaygpta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ijaygupta" height="30" width="40" /></a>
-<a href="https://medium.com/@ijaygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ijaygupta" height="30" width="40" /></a>
-</p>
+> Turning ☕ into scalable code 💻.  
+> Always building. Always learning. 🚀
 
 ---
 
-### ⚡ Fun Fact
-
-> I like turning coffee ☕ into clean, scalable code 💻  
-> Always learning & building 🚀
-
----
-
-⭐️ _If you like what I do, consider giving a star to one of my projects!_
-
-
-
----
-
-**My Tech Stack:**
-
-<p align = "center">
-  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p
-</p>
-
-<hr>
-
+⭐️ _Liked my work? Show some love by starring a repo or connecting with me!_
 
 ---
 
