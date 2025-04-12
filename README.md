@@ -2,8 +2,11 @@
 
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+Lover;Always+learning+new+things!&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+JS;In+search+of+effective+algorithms+and+an+architect+in+making.;Always+learning+new+things!;Let's+build+something+together+🚀&center=true&width=600&height=50" />
 </p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iJaygupta&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -71,7 +74,6 @@
   <a href="https://instagram.com/jaygpta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
   <a href="https://medium.com/@ijaygupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
   <a href="mailto:jayguptazzz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
