@@ -1,23 +1,22 @@
 <h1 align="center">Hey there 👋, I'm Jay Gupta</h1>
 
 
- <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+System+Design+Enthusiast;;Lifelong+Learner+%F0%9F%93%9A;Let%E2%80%99s+Build+Something+Awesome+Together+%F0%9F%9A%80" />
- </p>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+%7C+Spring+Boot+%7C+React+Lover;Always+learning+new+things!&center=true&width=500&height=50" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ijaygupta&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iJaygupta&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 Tech Stack
  - 🧠 Backend: **Node.js**, **Express.js**, **Fastify.js**, **Spring Boot**
- - 🎨 Frontend: **React.js**, **Redux**, **EJS**, **HTML5**
  - 🎨 Frontend: **React.js**, **Redux**, **EJS**, **Handlebars**, **HTML5**, **CSS3**
  - 🛢️ Databases: MongoDB, MySQL, Elasticsearch, Firebase, Redis
  - 🛠️ Tools: Git, Postman, Docker, VS Code, IntelliJ, GitHub Actions
- - 🌩 Devops: Docker, AWS (Lambda, SQS, EventBridge, Beanstalk, EC2, S3, Cloudwatch), Git, Linux, Cloudflare, CDN, Nginx
+ - 🌩 Devops: Docker, AWS (Lambda, SQS, EventBridge, Beanstalk, EC2, S3, Cloudwatch), Git, Linux
  - 🥽 Others: Data Structures & Algorithms, Design Patterns, System Design, Bash Script 
 
 ---
@@ -26,6 +25,8 @@
   <summary><b>📊 GitHub Stats</b></summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iJaygupta&show_icons=true&theme=gotham" alt="Jay Gupta | Stats" />
 </details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{iJaygupta}/count.svg)
 
 
 
@@ -69,6 +70,8 @@
   <a href="https://www.linkedin.com/in/ijaygupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://instagram.com/jaygpta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
   <a href="https://medium.com/@ijaygupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="mailto:jayguptazzz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
